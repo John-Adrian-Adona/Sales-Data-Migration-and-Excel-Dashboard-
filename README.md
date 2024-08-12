@@ -78,18 +78,15 @@ SAMPLE IMAGE OF SUPER STORE INC's EXCEL FILES
 
 <img src="https://i.postimg.cc/G2BCjPVG/Super-Store-Excel-File-Orders.png" width="85%">
 <br><br>
-<br><br>
 
 SAMPLE IMAGE OF EXCEL-MIGRATED SQL DATABASE FINAL OUTPUT
 
 <img src="https://i.postimg.cc/brgstc53/Super-Store-SQL-Database-Output.png" width=225>
 <br><br>
-<br><br>
 
 SAMPLE IMAGE OF ONE OF THE SQL TABLES (dbo.DimOrders) 
 
 <img src="https://i.postimg.cc/sfMWBvfh/SQL-Table-Dim-Orders.png">
-<br><br>
 <br><br>
 
 SAMPLE IMAGE OF FINAL SUPER STORE PRODUCT SALES BASHBOARD OUTPUT
