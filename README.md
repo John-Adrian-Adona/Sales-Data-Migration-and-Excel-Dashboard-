@@ -1,13 +1,13 @@
-# SuperStore-SQL-Data-Migration-Project
+# Sales-Data-Migration-and-Excel-Dashboard-Project
 
 
 <div style="text-align: justify;">
 
-Hello! In this article, I am excited to share the details of my standout project - Super Store Data Migration and Sales Dashboard. This initiative highlights my work in migrating product sales data from Excel to a MS SQL Server database and developing a product sales dashboard from the results. 
+Hello! In this article, I am excited to share the details of my standout project - Sales Data Migration and Excel Dashboard. This initiative highlights my work in migrating product sales data from Excel to MS SQL Server database and developing a product sales dashboard from the results. 
 
 </div>
 
-For more details and access to the project, you can check out my [GitHub repository](https://github.com/John-Adrian-Adona/SuperStore-Data-Migration-and-Sales-Dashboard-/).
+For more details and access to the project, you can check out my [GitHub repository](https://github.com/John-Adrian-Adona/Sales-Data-Migration-and-Excel-Dashboard-/).
 
 <br><br>
 
@@ -17,13 +17,13 @@ ___
 
 ### Problem Statement 
 
-As the Super Store Inc. expands its business by opening more branches across the country, the Company anticipates that continued reliance to Excel files for managing product sales data would lead to data discrepancies, inconsistencies, and mismanagement. To address these issues and improve management and scalability of the data, the decision has been made to centralize the product sales information under a SQL database. This project will also leverage the centralized data to develop an Excel Dashboard to provide real-time insights and enhancements to the company’s data analytical capabilities. 
+As Super Store Inc. expands its business by opening more branches across the country, the Company anticipates that continued reliance on Excel files for managing product sales data would lead to data discrepancies, inconsistencies, and mismanagement. To address these issues and improve the management and scalability of the data, the decision has been made to centralize the product sales information under the SQL database. This project will also leverage the centralized data to develop an Excel Dashboard to provide real-time insights and enhancements to the company’s data analytical capabilities. 
 
 ### Detailed Process 
 
 *1. Data Collection and Migration*
   *	**Collecting Data:** Gathered multiple Excel files containing Super Store Inc.’s product sales data.
-  * **Migration to SQL:** Transferred the collected data into a MS SQL Server database to enhance data security and integrity through normalization, the implementation of unique key constraints, and the application of user logins for controlled access.
+  * **Migration to SQL:** Transferred the collected data into MS SQL Server database to enhance data security and integrity through normalization, the implementation of unique key constraints, and the application of user logins for controlled access.
 
 *2. Database Setup*
   * **Schema Design:** Designed a relational database schema tailored to the structure and requirements of the data.
@@ -54,7 +54,7 @@ As the Super Store Inc. expands its business by opening more branches across the
 ### Challenges
 
 Encountered a loss of part of the database used for the Excel dashboard due to software updates and errors in database backup creation.
-- Despite this setback, the final Excel dashboard remained fully functional. Detailed screenshots and process documentation of the database setup and queries were recorded prior to the database loss. These documents ensure the database can be recreated, demonstrating proactive planning and thorough documentation practices.
+- Despite this setback, the final Excel dashboard remained fully functional. Detailed screenshots and process documentation of the database setup and queries were recorded before the database loss. These documents ensure the database can be recreated, demonstrating proactive planning and thorough documentation practices.
 
 ### Impact
 
@@ -65,7 +65,7 @@ Encountered a loss of part of the database used for the Excel dashboard due to s
 
 - Acquired hands-on experience in data migration, management, and normalization of Excel files within a single SQL database.
 - Improved proficiency in data visualization and dashboard creation.
-- Recognized the critical importance of validating data backups to ensure error-free results and prevent data loss.
+- Recognized the importance of validating data backups to ensure error-free results and prevent data loss.
 
 ### Images and Screenshots
 
@@ -89,7 +89,7 @@ SAMPLE IMAGE OF ONE OF THE SQL TABLES (dbo.DimOrders)
 <img src="https://i.postimg.cc/sfMWBvfh/SQL-Table-Dim-Orders.png">
 <br><br>
 
-SAMPLE IMAGE OF FINAL SUPER STORE PRODUCT SALES BASHBOARD OUTPUT
+SAMPLE IMAGE OF FINAL SUPER STORE PRODUCT SALES DASHBOARD OUTPUT
 
 <img src="https://i.postimg.cc/G2VHPx3s/Super-Store-Excel-Dashboard-Output.png">
 </div>
